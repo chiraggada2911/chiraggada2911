@@ -10,7 +10,7 @@
 
 Hi, I'm Chirag Gada, a passionate self-taught frontEnd web and android developer from India.
 
-- 🔭 I’m currently working with a startup [Kisan Stores](http://kisanstores.co.in/)
+- 🔭 I’m currently working with a startup [Spark Inventions](http://sparkinvention.com/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to freelancing projects.
 - 🥅 2020 Goals: Contribute more to Open Source projects
